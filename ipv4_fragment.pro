@@ -15,8 +15,6 @@ SOURCES += main.c \
     rbtree2/tag_elem.c
 
 HEADERS += \
-    ipv4-fragment.h \
-    ipv4-reassembly.h \
     handler.h \
     rbtree2/compiler.h \
     rbtree2/key_elem.h \
